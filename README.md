@@ -8,6 +8,8 @@ The project is about building a fully responsive Grocery Store web application. 
 
 
 ## The features include :  <br/>
+![j](https://user-images.githubusercontent.com/60807484/162481775-dd9f013a-d274-4720-bc95-e32085138c69.png)
+![i](https://user-images.githubusercontent.com/60807484/162481769-f2ef3577-739e-4a5a-b72a-827748b8addb.png)
 #### The users can perform addition of grocery items by their
 1. Name <br/>
 2. Quantity <br/>
@@ -21,4 +23,4 @@ The project is about building a fully responsive Grocery Store web application. 
 The items that they have added in their grocery list. <br/> 
 
 #### The users can filter the dates and view the items according to the dates
-
+<br/>
