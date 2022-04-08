@@ -4,8 +4,6 @@ These days our world is moving pretty rapidly, so people are striving to find sp
 The thing is the features of grocery shopping list apps are highly appreciated by the audience since they allow drawing up lists to go food shopping, ordering grocery suppliers online, delivering foodstuff wherever required, in case a person can’t pick it up at the grocery store, and much more.
 The owners of grocery shopping apps significantly facilitate the lives of their users in many different ways. <br/>
 The project is about building a fully responsive Grocery Store web application. It  consists of various features that enable the users to manage their entire grocery shopping requirements and maintain a list of items with their specification that would help the user to keep track of their grocery shopping. 
-<br/>
-
 
 ## The features include :  <br/>
 ![j](https://user-images.githubusercontent.com/60807484/162481775-dd9f013a-d274-4720-bc95-e32085138c69.png)
